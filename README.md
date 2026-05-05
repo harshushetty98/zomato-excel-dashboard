@@ -1,4 +1,4 @@
-# Zomato Sales -excel-dashboard
+# Zomato Sales Dashboard (Excel)
 Interactive Excel dashboard analyzing Zomato sales data using Pivot Tables, charts, and slicers. Provides insights into sales trends, customer ratings, regional performance, and top-performing cities.
 
 
